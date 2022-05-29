@@ -234,6 +234,7 @@ img {
 
 .ul {
   list-style: none;
+  background-color: #fff;
 }
 
 .ul.exelents-list {
@@ -527,7 +528,6 @@ img {
   display: flex;
   justify-content: center;
   margin-bottom: 30px;
-  background-color: #ffffff;
 }
 
 .our-team-social-link {
